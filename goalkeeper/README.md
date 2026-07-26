@@ -66,9 +66,7 @@ The project pipeline consists of:
 
 The developed models were evaluated based on different performance metrics.
 
-(Add your final results here)
 
-Example:
 
 
 | Model  ![alt text](image-1.png)
